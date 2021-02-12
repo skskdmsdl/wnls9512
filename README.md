@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=_#f8e2cf&height=300&section=header&text=ZuWon%20&fontSize=90&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ZuWon%20&fontSize=90&animation=twinkling&height=200" />
 
 <div align=center>
 
@@ -21,4 +21,4 @@
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer&height=200"/>
