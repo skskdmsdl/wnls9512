@@ -2,10 +2,9 @@
 
 <div align=center>
 
-  <h3>Hi there 👋</h3>
-  I'm Juwon Park
-
-  <h3>📚 Tech Stack 📚</h3>
+  <h3>Hi there 👋  I'm Juwon Park</h3>
+ 
+  <h3>🛠 Tech Stack 🛠</h3>
   
   ![Generic badge](https://img.shields.io/badge/Java-%23007396?logo=Java&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/Spring-%236DB33F?logo=Spring&logoColor=white)
@@ -17,7 +16,7 @@
   ![Generic badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
   
   
-  <h4>📚 studying 📚</h4>
+  <h4> studying... </h4>
    
   ![Generic badge](https://img.shields.io/badge/NodeJs-%23339933?logo=Node.js&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/Linux-%23FCC624?logo=Linux&logoColor=white)
