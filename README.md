@@ -2,8 +2,8 @@
 
 <div align=center>
 
-  <h2>Hi there 👋 <br>
-  I'm Juwon Park</h2>
+  <h3>Hi there 👋 <br>
+  I'm Juwon Park</h3>
 
   <h3>📚 Tech Stack 📚</h3>
   
