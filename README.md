@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm JuWon Park
+
+##Tech Stack
+* Java
+* Node.js
 
 <!--
 **wnls9512/wnls9512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
