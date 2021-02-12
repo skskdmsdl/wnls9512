@@ -2,10 +2,10 @@
 
 <div align=center>
 
-  <h3>Hi there 👋 <br>
-  I'm Juwon Park</h3>
+  <h2>Hi there 👋 <br>
+  I'm Juwon Park</h2>
 
-  <h4>📚 Tech Stack 📚</h4>
+  <h3>📚 Tech Stack 📚</h3>
   
   ![Generic badge](https://img.shields.io/badge/Java-%23007396?logo=Java&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/NodeJs-%23339933?logo=Node.js&logoColor=white)
