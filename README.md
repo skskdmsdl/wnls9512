@@ -16,7 +16,7 @@
   ![Generic badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
   
   
-  <h4> studying... </h4>
+  <h4> studying... 🌱 </h4>
    
   ![Generic badge](https://img.shields.io/badge/NodeJs-%23339933?logo=Node.js&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/Linux-%23FCC624?logo=Linux&logoColor=white)
