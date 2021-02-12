@@ -1,9 +1,17 @@
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ZuWon%20&fontSize=90&animation=twinkling" />
+
 ### Hi there 👋
-I'm JuWon Park
+<center>I'm Juon Park</center>
 
 ## Tech Stack
 * Java
 * Node.js
+SpringBoot
+Javascript
+html
+css
+Mysql
+Oracle
 
 <!--
 **wnls9512/wnls9512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
