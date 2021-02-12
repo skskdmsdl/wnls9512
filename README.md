@@ -19,11 +19,10 @@
   
   
   <h3>•••</h3>
-  
-  
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Notion&link=https://www.notion.so/HelloWorld-be2491a9531f4b83b456b9d4ae6ea5a7/)](https://www.notion.so/HelloWorld-be2491a9531f4b83b456b9d4ae6ea5a7)
+ 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wwoon9512@gmail.com)](mailto:wwoon9512@gmail.com)
-  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Notion&link=https://www.notion.so/HelloWorld-be2491a9531f4b83b456b9d4ae6ea5a7/)](https://www.notion.so/HelloWorld-be2491a9531f4b83b456b9d4ae6ea5a7)
+   
 </div>
 
 
