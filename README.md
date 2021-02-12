@@ -9,12 +9,13 @@
   ![Generic badge](https://img.shields.io/badge/Java-%23007396?logo=Java&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/Spring-%236DB33F?logo=Spring&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/MySQL-%234479A1?logo=MySQL&logoColor=white)
-  ![Generic badge](https://img.shields.io/badge/Oracle-%23F80000?logo=Oracle&logoColor=white) 
+  ![Generic badge](https://img.shields.io/badge/Oracle-%23F80000?logo=Oracle&logoColor=white)
   
   ![Generic badge](https://img.shields.io/badge/html-%23E34F26?logo=html5&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/css-%231572B6?logo=CSS3&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
-  
+  ![Generic badge](https://img.shields.io/badge/jQuery-%230769AD?logo=jQuery&logoColor=white)
+
   
   <h4> studying... 🌱 </h4>
    
