@@ -17,4 +17,8 @@
   ![Generic badge](https://img.shields.io/badge/html-%23E34F26?logo=html5&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/css-%231572B6?logo=CSS3&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
+  
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=footer"/>
