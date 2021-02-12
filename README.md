@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=ZuWon%20&fontSize=90&animation=twinkling" />
 
 <div align=center>
-<h4>Hi there 👋</h4> <br>
+<h4>Hi there 👋</h4>
 I'm Juwon Park
 </div>
 
