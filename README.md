@@ -17,6 +17,13 @@
   ![Generic badge](https://img.shields.io/badge/css-%231572B6?logo=CSS3&logoColor=white)
   ![Generic badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=JavaScript&logoColor=white)
   
+  
+  <h3>•••</h3>
+  
+  
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Notion&link=https://www.notion.so/HelloWorld-be2491a9531f4b83b456b9d4ae6ea5a7/)](https://www.notion.so/HelloWorld-be2491a9531f4b83b456b9d4ae6ea5a7)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wwoon9512@gmail.com)](mailto:wwoon9512@gmail.com)
+  
 </div>
 
 
